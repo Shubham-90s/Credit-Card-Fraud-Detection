@@ -4,4 +4,4 @@ To overcome this challenge we designed and implemented a machine learning soluti
 within a dataset of European cardholder transactions. 
 Achieved accurate classification of fraudulent and non-fraudulent transactions, 
 contributing to enhanced security and reduced financial losses for both financial 
-institutions and cardholders.
+institutions and cardholders..
